@@ -28,6 +28,7 @@
         "type": "git",
         "url": "git://github.com/inikulin/parse5.git"
     },
+     "dependencies": {"html-entities": "^2.3.3"},
     "files": [
         "lib"
     ]
